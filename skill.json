@@ -1,0 +1,12 @@
+{
+  "name": "genpark-agentic-sql-query-self-correction-skill",
+  "version": "1.0.0",
+  "description": "Autonomous SQL query self-correction engine fixing syntax errors, column typos, schema joins, and group by clauses",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["sql-self-healing", "query-repair", "text-to-sql", "ast-fixing", "schema-join", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
